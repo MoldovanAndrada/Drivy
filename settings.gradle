@@ -1,0 +1,2 @@
+rootProject.name='Drivy1'
+include ':app'

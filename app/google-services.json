@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20311218097",
+    "firebase_url": "https://drivy-e72ec.firebaseio.com",
+    "project_id": "drivy-e72ec",
+    "storage_bucket": "drivy-e72ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20311218097:android:2a854fbdf5d7b8f80fcf90",
+        "android_client_info": {
+          "package_name": "com.example.drivy1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20311218097-9kh0uh5lkfkdi46in47v42493a2l85v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drivy1",
+            "certificate_hash": "383ee1a67de5816d8408c0c98b029e6a8cf84e71"
+          }
+        },
+        {
+          "client_id": "20311218097-hv49tsc2usdcafpd0jp3nb2r8ct00m2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc6uEamrr7fL5Z_KQmEdPSZ6_Wme8GxKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20311218097-hv49tsc2usdcafpd0jp3nb2r8ct00m2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
